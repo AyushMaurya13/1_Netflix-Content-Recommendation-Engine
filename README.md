@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://static1.moviewebimages.com/wordpress/wp-content/uploads/2024/08/netflix-logo.jpeg" 
        alt="Netflix Logo" 
-       width="1200" 
-       height="300"/>
+       width="1300" 
+       height="500"/>
 </p>
 
 # 🎬 Netflix Content Recommendation Engine
@@ -771,3 +771,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 </div>
+
