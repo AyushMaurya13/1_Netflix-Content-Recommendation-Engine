@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://static1.moviewebimages.com/wordpress/wp-content/uploads/2024/08/netflix-logo.jpeg" 
+       alt="Netflix Logo" 
+       width="1200" 
+       height="300"/>
+</p>
+
 # 🎬 Netflix Content Recommendation Engine
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
@@ -761,5 +768,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
 
 **[⭐ Star this repo](https://github.com/AyushMaurya13/1_Netflix-Content-Recommendation-Engine) if you found it helpful!**
+
 
 </div>
